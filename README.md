@@ -10,8 +10,12 @@ Norman Morris
 
 Zheding Zhao
 
-# Folder Explained
+# Project_Specifications 
 
-**Project_Specifications** A folder that contains files for overview of the project.
+A folder that contains files for overview of the project.
+
+**ProjectManagementPlan.pdf** The agile project management using Jira.
+
+**Executive_Summary.pdf** The executive summary for the project.
 
 

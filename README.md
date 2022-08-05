@@ -10,8 +10,8 @@ Norman Morris
 
 Zheding Zhao
 
-# File Explained
+# Folder Explained
 
-**ProjectManagementPlan.pdf** The pdf version of agile project management plan using Jira.
+**ProjectManagement** Contains files for Project Management Plan.
 
 **ProjectProposal.pdf** The overall project proposal which contains Executive Summary, Introduction, and Project Description.

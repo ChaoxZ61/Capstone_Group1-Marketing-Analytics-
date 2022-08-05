@@ -3,3 +3,5 @@
 **ProjectManagementPlan.pdf** The agile project management usring jiro.
 
 **Executive_Summary.pdf** The executive summary for the project.
+
+**Data_Platform.pdf:** Shows data flow of the project and the technologies used.

@@ -19,3 +19,7 @@ A folder that contains files for overview of the project.
 **Executive_Summary.pdf** The executive summary for the project.
 
 **Data_Platform.pdf:** Shows data flow of the project and the technologies used.
+
+# Code
+
+A folder that contains all code files used for the project (in .ipynb format). For more detail, look at the READ.md in the respective folder.

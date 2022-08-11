@@ -12,7 +12,17 @@ Zheding Zhao
 
 # Project_Specifications 
 
-A folder that contains files for overview of the project. For more detail, look at the README.md in the respective folder.
+A folder that contains files for overview of the project, which includes:
+
+Executive Summary
+
+Project Management Plan
+
+ETL Report
+
+Cloud Diagram
+
+For more detail, see the README.md in the respective folder.
 
 # Code
 

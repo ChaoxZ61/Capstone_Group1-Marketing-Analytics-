@@ -1,3 +1,7 @@
+# Import Note
+
+Please ask the group member for the Config file and put it in the same folder with all other files in order for the file to run properly.
+
 # File Explained
 
 **Business_ETL.ipynb:** Databricks for ETL Process of Business, BusinessAttributes, Attributes, and AttributesValues tables in the Database.

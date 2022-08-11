@@ -1,6 +1,6 @@
 # Import Note
 
-Please ask the group member for the Config file and put it in the same folder with all other files in order for the file to run properly.
+Please ask the group members for the Config file and put it in the same folder with all other files in order for the file to run properly.
 
 # File Explained
 

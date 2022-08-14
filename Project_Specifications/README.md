@@ -7,3 +7,7 @@
 **Data_Platform.pdf:** Shows data flow of the project and the technologies used.
 
 **RepeatableETLReport.pdf:** The ETL report for the project
+
+**Dashboard Napkin Drawing.pdf** Napkin Drawing with feedbacks and updates on the Dashboard.
+
+**Visualizations Napkin Drawing.pdf** Napkin Drawing with feedbacks and updates on visualizations.

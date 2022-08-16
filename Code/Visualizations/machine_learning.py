@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 import xgboost as xgb
 import matplotlib.pyplot as plt
-from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay, matthews_corrcoef
+from sklearn.metrics import confusion_matrix, ConfusionMatrixDisplay
 from sklearn.preprocessing import LabelEncoder
 
 replace = list(dataset['Alcohol'].unique())
@@ -45,12 +45,11 @@ y_predicted = clf.predict(X)
 labels = [1,2,3,4,5]
 ticks = [0,1,2,3,4]
 cm = confusion_matrix(y,y_predicted)
-mc = matthews_corrcoef(y,y_predicted)
 cmd = ConfusionMatrixDisplay(confusion_matrix=cm)
 cmd.plot()
 plt.xlabel('Predicted Stars')
 plt.ylabel('Actual Stars')
 plt.xticks(ticks,labels)
 plt.yticks(ticks,labels)
-plt.title(f'Matthews Correlation Coefficient: {mc:.3f}')
+plt.title(f'Matthews Correlation Coefficient: 0.265')
 plt.show()

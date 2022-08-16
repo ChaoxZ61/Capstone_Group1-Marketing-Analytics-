@@ -29,3 +29,13 @@ For more detail, see the README.md in the respective folder.
 # Code
 
 A folder that contains all code files used for the project (in .ipynb format). For more detail, look at the README.md in the respective folder.
+
+# Final Output
+
+The Final Product of the project, which includes:
+
+A Power BI Report for Visualizations
+
+A Technical Report
+
+A Presentation Slide Show

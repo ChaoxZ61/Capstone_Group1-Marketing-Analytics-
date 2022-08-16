@@ -1,6 +1,6 @@
-# Capstone_Group1-Marketing-Analytics-
+# Dev 10 Capstone: Yelp Analytics
 
-# Group Members
+## Group Members
 
 Dean Papadopoulos
 
@@ -10,27 +10,27 @@ Norman Morris
 
 Zheding Zhao
 
-# Project_Specifications 
+## Project_Specifications 
 
 A folder that contains files for overview of the project, which includes:
 
-Executive Summary
+- Executive Summary
 
-Project Management Plan
+- Project Management Plan
 
-ETL Report
+- ETL Report
 
-Cloud Diagram
+- Cloud Diagram
 
-Napkin Drawings with Feedbacks
+- Napkin Drawings with Feedbacks
 
 For more detail, see the README.md in the respective folder.
 
-# Code
+## Code
 
 A folder that contains all code files used for the project (in .ipynb format). For more detail, look at the README.md in the respective folder.
 
-# Final Output
+## Final Output
 
 The Final Product of the project, which includes:
 

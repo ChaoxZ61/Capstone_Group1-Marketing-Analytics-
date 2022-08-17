@@ -1,3 +1,21 @@
+# Prerequisite
+
+A Python version 3.9 with following packages installed:
+
+Pandas
+
+Numpy
+
+sklearn
+
+xgboost
+
+matplotlib
+
+pymssql
+
+pyspark
+
 # Folder Detail
 
 **ETL:** Contains all databricks used for ETL process (stored in .ipynb format). See README in the folder for more detail.

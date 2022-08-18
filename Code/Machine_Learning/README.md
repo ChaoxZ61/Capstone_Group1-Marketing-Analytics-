@@ -1,19 +1,3 @@
-# Prerequisite
-
-A Python version 3.9 with following packages installed:
-
-Pandas
-
-Numpy
-
-sklearn
-
-xgboost
-
-matplotlib
-
-pymssql
-
 # Important
 
 Please ask the owner for config.py in order for the jupyter notebook to work properly.

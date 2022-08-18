@@ -32,10 +32,10 @@ A folder that contains all code files used for the project (in .ipynb, .py, or .
 
 ## Final Output
 
-The Final Product of the project, which includes:
+A Folder that contains all the Final Product of the project, which includes:
 
-A Power BI Report for Visualizations
+- Power BI Report for Visualizations
 
-A Technical Report
+- Technical Report
 
-A Presentation Slide Show
+- Presentation Slide Show
